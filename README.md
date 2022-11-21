@@ -1,4 +1,4 @@
-# Subversive Synchrony
+# Subversive Serendipity 
 
 > 🔗[Partition function (statistical mechanics) - wikipedia page](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)#Canonical_partition_function)  
 > 🔗[Thermodynamic beta - wikipedia page](https://en.wikipedia.org/wiki/Thermodynamic_beta)      
