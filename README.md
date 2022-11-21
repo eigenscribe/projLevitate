@@ -7,8 +7,12 @@
 > 📘[Einstein model](https://solidstate.quantumtinkerer.tudelft.nl/1_einstein_model/)
 
 Quantum stuff
-> 🔗http://www.thomaswong.net/  
->> 🎲https://www.thegamecrafter.com/games/qubit-touchdown   
+> 🔗 http://www.thomaswong.net/  
+>> 🎲 https://www.thegamecrafter.com/games/qubit-touchdown   
 >> 📖[Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
+Miscellaneous 
+> 🔗 https://www.agarthea.org/  
+> 🐤 https://twitter.com/Agartheum  
+> 🤖 [Reddit post](https://www.reddit.com/r/conspiracy/comments/yxkvxe/introducing_agarthea_agartheum/)
 ![subversive-network](https://user-images.githubusercontent.com/111261353/188546662-4dbdfe6b-f485-4a8a-9f5a-436bc25d3074.png)
