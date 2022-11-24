@@ -6,6 +6,9 @@
 > 🔗[Two Level Systems and more](http://home.thep.lu.se/~larsg/Site/SM2.pdf)  
 > 📘[Einstein model](https://solidstate.quantumtinkerer.tudelft.nl/1_einstein_model/)
 
+Second Law of Thermo
+> 🔗[The 2nd Law of Thermodynamics -- A Probablistic Law](https://www.compadre.org/nexusph/course/view.cfm?ID=482)   
+
 Quantum stuff
 > 🔗 http://www.thomaswong.net/  
 >> 🎲 https://www.thegamecrafter.com/games/qubit-touchdown   
