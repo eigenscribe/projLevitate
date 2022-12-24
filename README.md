@@ -16,6 +16,10 @@ Quantum stuff
 
 Miscellaneous 
 > 🔗 https://www.agarthea.org/  
-> 🐤 https://twitter.com/Agartheum  
-> 🤖 [Reddit post](https://www.reddit.com/r/conspiracy/comments/yxkvxe/introducing_agarthea_agartheum/)
+>> 🐤 https://twitter.com/Agartheum  
+>> 🤖 [Reddit post](https://www.reddit.com/r/conspiracy/comments/yxkvxe/introducing_agarthea_agartheum/)
+
+> 🔗 https://longnow.org/
+
 ![subversive-network](https://user-images.githubusercontent.com/111261353/188546662-4dbdfe6b-f485-4a8a-9f5a-436bc25d3074.png)
+
