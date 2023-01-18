@@ -1,5 +1,9 @@
 # Subversive Serendipity 
 
+- [ ] 📺[Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=TLPQMTgwMTIwMjMWNHnxbFgtrA&index=2)
+ 
+
+
 > 🔗[Partition function (statistical mechanics) - wikipedia page](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)#Canonical_partition_function)  
 > 🔗[Thermodynamic beta - wikipedia page](https://en.wikipedia.org/wiki/Thermodynamic_beta)      
 > 🔗[Two Level Systems and more](http://home.thep.lu.se/~larsg/Site/SM2.pdf)  
