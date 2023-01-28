@@ -1,4 +1,5 @@
 # Subversive Serendipity 
+![subversive-network](https://user-images.githubusercontent.com/111261353/215251057-2a92883b-aff6-42da-b735-61205deaa26f.png)  
 
 - [ ] 📺[Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=TLPQMTgwMTIwMjMWNHnxbFgtrA&index=2)
  
@@ -22,7 +23,4 @@ Miscellaneous
 >> 🐤 https://twitter.com/Agartheum  
 >> 🤖 [Reddit post](https://www.reddit.com/r/conspiracy/comments/yxkvxe/introducing_agarthea_agartheum/)
 
-> 🔗 https://longnow.org/
-
-![subversive-network](https://user-images.githubusercontent.com/111261353/188546662-4dbdfe6b-f485-4a8a-9f5a-436bc25d3074.png)
-
+> 🔗 https://longnow.org/  
