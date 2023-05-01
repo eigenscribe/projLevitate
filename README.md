@@ -2,8 +2,7 @@
 ![subversive-network](https://user-images.githubusercontent.com/111261353/215251057-2a92883b-aff6-42da-b735-61205deaa26f.png)  
 
 ---
-- [x] [Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=TLPQMTgwMTIwMjMWNHnxbFgtrA&index=2) 📺
-- [ ] [Probability Models](https://www.math.wustl.edu/~feres/Math450Lect01.pdf) 📄
+- [ ] https://github.com/users/sofiascriber/projects/2
 ---
 > 🔗[Partition function (statistical mechanics) - wikipedia page](https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)#Canonical_partition_function)  
 > 🔗[Thermodynamic beta - wikipedia page](https://en.wikipedia.org/wiki/Thermodynamic_beta)      
