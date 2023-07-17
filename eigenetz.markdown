@@ -13,12 +13,12 @@ A = [0 1 1 0 1 0 0 0 0 0; ...
      0 0 0 0 1 0 1 1 0 1; ...
      0 0 0 0 0 0 1 1 1 0];
 
-[P,L] = eig(A);
-disp(L); disp(P)
+[P,Sigma] = eig(A);
+disp(Sigma); disp(P)
 ```
 Gives (approximatetly) 
 ```
-L = 
+Sigma = 
   -2.4142         0         0         0         0         0         0         0         0         0
          0   -2.0421         0         0         0         0         0         0         0         0
          0         0   -1.3974         0         0         0         0         0         0         0
