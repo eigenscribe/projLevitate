@@ -36,7 +36,6 @@ Miscellaneous
 ```py
 import numpy as np
 
-# Define the Hamiltonian matrix
 H = [np.array](http://np.array)([[100, -10, -5],
               [-10, 80, -15],
               [-5, -15, 90]])
