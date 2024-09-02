@@ -17,8 +17,33 @@ Quantum stuff
 >> 📖[Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 
 Miscellaneous 
-> 🔗 https://www.agarthea.org/  
->> 🐤 https://twitter.com/Agartheum  
->> 🤖 [Reddit post](https://www.reddit.com/r/conspiracy/comments/yxkvxe/introducing_agarthea_agartheum/)
 
 > 🔗 https://longnow.org/  
+
+
+### Basis states
+1. $|\text{Crown}\rangle$
+2. $|\text{Wisdom}\rangle$
+3. $|\text{Understanding}\rangle$
+4. $|\text{Kindness}\rangle$
+5. $|\text{Might}\rangle$
+6. $|\text{Beauty}\rangle$
+7. $|\text{Victory}\rangle$
+8. $|\text{Splendor}\rangle$
+9. $|\text{Foundation}\rangle$
+10. $|\text{Kingdom}\rangle$
+
+```py
+import numpy as np
+
+# Define the Hamiltonian matrix
+H = [np.array](http://np.array)([[100, -10, -5],
+              [-10, 80, -15],
+              [-5, -15, 90]])
+
+# Diagonalize the Hamiltonian
+eigenvalues, eigenvectors = [np.linalg.eigh](http://np.linalg.eigh)(H)
+
+print("Eigenvalues:", eigenvalues)
+print("Eigenvectors:", eigenvectors)
+```
