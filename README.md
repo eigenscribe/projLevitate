@@ -21,28 +21,38 @@ Miscellaneous
 > 🔗 https://longnow.org/  
 
 
-### Basis states
-1. $|\text{Crown}\rangle$
-2. $|\text{Wisdom}\rangle$
-3. $|\text{Understanding}\rangle$
-4. $|\text{Kindness}\rangle$
-5. $|\text{Might}\rangle$
-6. $|\text{Beauty}\rangle$
-7. $|\text{Victory}\rangle$
-8. $|\text{Splendor}\rangle$
-9. $|\text{Foundation}\rangle$
-10. $|\text{Kingdom}\rangle$
-
+## Brainstorming (9/2/2024)
 ```py
 import numpy as np
 
-H = [np.array](http://np.array)([[100, -10, -5],
-              [-10, 80, -15],
-              [-5, -15, 90]])
+# Define the sefirot
+sefirot = ["Keter", "Chokhmah", "Binah", "Chesed", "Gevurah", "Tiferet", "Netzach", "Hod", "Yesod", "Malkuth"]
+
+# Number of sefirot
+n = len(sefirot)
+
+# Assign self-energies using a Gaussian distribution
+mean = 100
+std_dev = 20
+self_energies = np.random.normal(mean, std_dev, n)
+
+# Define a hypothetical interaction energy matrix
+# For simplicity, we'll use a symmetric matrix with small random values
+interaction_energies = np.random.uniform(-10, 10, (n, n))
+np.fill_diagonal(interaction_energies, 0)  # No self-interaction
+interaction_energies = (interaction_energies + interaction_energies.T) / 2  # Make it symmetric
+
+# Construct the Hamiltonian matrix
+H = np.diag(self_energies) + interaction_energies
 
 # Diagonalize the Hamiltonian
-eigenvalues, eigenvectors = [np.linalg.eigh](http://np.linalg.eigh)(H)
+eigenvalues, eigenvectors = np.linalg.eigh(H)
 
+# Print the results
+print("Sefirot:", sefirot)
+print("Self-Energies:", self_energies)
+print("Interaction Energies:\n", interaction_energies)
+print("Hamiltonian:\n", H)
 print("Eigenvalues:", eigenvalues)
-print("Eigenvectors:", eigenvectors)
+print("Eigenvectors:\n", eigenvectors)
 ```
