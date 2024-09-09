@@ -2,6 +2,7 @@
 # eighted_graph.html#sphx-glr-auto-examples-drawing-plot-weighted-graph-py
 import matplotlib.pyplot as plt
 import networkx as nx
+import numpy as np
 
 G = nx.Graph()
 
@@ -27,6 +28,22 @@ G.add_edge("7", "10", weight=1/22)   # edge 19
 G.add_edge("8", "9", weight=1/22)    # edge 20
 G.add_edge("8", "10", weight=1/22)   # edge 21
 G.add_edge("9", "10", weight=1/22)   # edge 22
+
+
+
+# Assign node names to each node in G with the corresponding index
+nodes = ['Keter', 'Chochma', 'Binah', 'Chesed', 'Gevurah',
+         'Tiferet', 'Hod', 'Netzach', 'Yesod', 'Malchut']
+
+english_nodes = ['Crown', 'Wisdom', 'Understanding', 'Expansion💗', 
+    'Contraction⚡', 'Beauty', 'Victory', 'Splendor', 'Foundation', 'Kingdom']
+
+for i, node in enumerate(G.nodes()):
+    G.nodes[node]['sefirot'] = nodes[i]
+
+# Optional: To check if the names were assigned correctly
+for node in G.nodes(data=True):
+    print(node)
 
 elarge = [(u, v) for (u, v, d) in G.edges(data=True) if d["weight"] > 0.5]
 esmall = [(u, v) for (u, v, d) in G.edges(data=True) if d["weight"] <= 0.5]
